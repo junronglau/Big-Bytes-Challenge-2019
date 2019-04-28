@@ -36,7 +36,7 @@ The proposed solution to improving fraud recovery through the early identificati
 * F-Beta Score for Model : 0.83
  
 ### Cross validation Performance
-6-fold cross validation summary metrics (Average)
+10-fold cross validation summary metrics (Average)
 
 * Precision for Model : 0.67
 * Sensitivity/Recall for Model : 0.93
