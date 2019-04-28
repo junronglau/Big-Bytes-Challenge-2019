@@ -25,10 +25,10 @@ The proposed solution to improving fraud recovery through the early identificati
 ### Trained Model Performance
 
 * Loss Curve for training and validation set
-<img src='https://ibb.co/g3TPWN1'>
+<img src='https://i.ibb.co/zrR72pc/loss.png'>
 
 * Area under ROC
-<img src='https://ibb.co/ScyxQjN'>
+<img src='https://i.ibb.co/2Sh689q/roccurve.png'>
  
 * Precision for Model : 0.65
 * Sensitivity/Recall for Model : 0.89
